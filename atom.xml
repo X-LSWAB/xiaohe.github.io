@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://x-lswab.github.io/xiaohe.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-11-30T12:11:41.284Z</updated>
+    <updated>2019-11-30T12:13:13.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://x-lswab.github.io/xiaohe.github.io/"/>
     <link rel="self" href="https://x-lswab.github.io/xiaohe.github.io//atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://x-lswab.github.io/xiaohe.github.io//post/1di-yi-pian-bo-wen">
         </link>
         <updated>2019-11-30T10:12:16.000Z</updated>
-        <content type="html"><![CDATA[<p>开心</p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://x-lswab.github.io/xiaohe.github.io//post-images/1575115975991.gif" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
