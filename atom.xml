@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://x-lswab.github.io/xiaohe.github.io/</id>
     <title>一介凡人</title>
-    <updated>2019-12-02T01:27:37.338Z</updated>
+    <updated>2019-12-02T02:59:38.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://x-lswab.github.io/xiaohe.github.io/"/>
     <link rel="self" href="https://x-lswab.github.io/xiaohe.github.io//atom.xml"/>
@@ -17,26 +17,6 @@
         <link href="https://x-lswab.github.io/xiaohe.github.io//post/linux-ji-chu">
         </link>
         <updated>2019-12-02T00:47:33.000Z</updated>
-        <content type="html"><![CDATA[<p>🚩基础命令<br>
-mkdir<br>
-1．命令格式：</p>
-<p>mkdir [选项] 目录...</p>
-<p>2．命令功能：</p>
-<p>通过 mkdir 命令可以实现在指定位置创建以 DirName(指定的文件名)命名的文件夹或目录。要创建文件夹或目录的用户必须对所创建的文件夹的父文件夹具有写权限。并且，所创建的文件夹(目录)不能与其父目录(即父文件夹)中的文件名重名，即同一个目录下不能有同名的(区分大小写)。</p>
-<p>3．命令参数：<br>
--m, --mode=模式，设定权限&lt;模式&gt; (类似 chmod)，而不是 rwxrwxrwx 减 umask<br>
--p, --parents  可以是一个路径名称。此时若路径中的某些目录尚不存在,加上此选项后,系统将自动建立好那些尚不存在的目录,即一次可以建立多个目录;<br>
--v, --verbose  每次创建新目录都显示信息<br>
---help   显示此帮助信息并退出<br>
---version  输出版本信息并退出<br>
-😊<br>
-2.linux 重命名文件和文件夹<br>
-linux下重命名文件或文件夹的命令mv既可以重命名，又可以移动文件或文件夹.</p>
-<p>例子：将目录A重命名为B</p>
-<p>mv A B</p>
-<p>例子：将/a目录移动到/b下，并重命名为c</p>
-<p>mv /a /b/c</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1.第一篇博文]]></title>
