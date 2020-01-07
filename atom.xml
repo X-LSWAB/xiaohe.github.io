@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://x-lswab.github.io/xiaohe.github.io/</id>
     <title>一介凡人</title>
-    <updated>2019-12-24T13:27:51.343Z</updated>
+    <updated>2020-01-07T13:11:56.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://x-lswab.github.io/xiaohe.github.io/"/>
     <link rel="self" href="https://x-lswab.github.io/xiaohe.github.io//atom.xml"/>
@@ -10,34 +10,5 @@
 很多知识不是教我们如何成功，而是教我们如何失败。因此，学习是一件极其危险的事！</subtitle>
     <logo>https://x-lswab.github.io/xiaohe.github.io//images/avatar.png</logo>
     <icon>https://x-lswab.github.io/xiaohe.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 一介凡人</rights>
-    <entry>
-        <title type="html"><![CDATA[我们的骄傲多半是基于我们的无知!]]></title>
-        <id>https://x-lswab.github.io/xiaohe.github.io//post/wo-men-de-jiao-ao-duo-ban-shi-ji-yu-wo-men-de-wu-zhi</id>
-        <link href="https://x-lswab.github.io/xiaohe.github.io//post/wo-men-de-jiao-ao-duo-ban-shi-ji-yu-wo-men-de-wu-zhi">
-        </link>
-        <updated>2019-12-24T13:09:29.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>知人者智，自知者明。胜人者有力，自胜者强</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[                     人生不设限，为更好 ，开启无限可能]]></title>
-        <id>https://x-lswab.github.io/xiaohe.github.io//post/ren-sheng-bu-she-xian-wei-geng-hao-kai-qi-wu-xian-ke-neng</id>
-        <link href="https://x-lswab.github.io/xiaohe.github.io//post/ren-sheng-bu-she-xian-wei-geng-hao-kai-qi-wu-xian-ke-neng">
-        </link>
-        <updated>2019-12-23T06:58:10.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>做人要相信自己，能够最有效的帮自己的也只有自己，自信很重要！
-
-这篇长文是写自己的，写作是唯一一种和自己有效对话的方式。
-</code></pre>
-<h1 id="健康">健康</h1>
-<pre><code>一个人生命健康程度决定了人生的长度，把时间花费在自己的健康上是一点都不亏的。
-1.先建立健全的健康体系，然后用闲暇的是慢慢深入
-2.第一步体系健全和深入成熟后，自己或者身边的人先向实践！
-3.达到理想效果后，在经验和成果分享出去
-</code></pre>
-<figure data-type="image" tabindex="1"><img src="https://x-lswab.github.io/xiaohe.github.io//post-images/1577108070217.jpg" alt=""></figure>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2020, 一介凡人</rights>
 </feed>
