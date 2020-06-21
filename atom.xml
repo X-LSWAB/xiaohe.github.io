@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://x-lswab.github.io/xiaohe.github.io/</id>
     <title>一介凡人</title>
-    <updated>2020-01-07T13:11:56.329Z</updated>
+    <updated>2020-06-21T09:06:35.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://x-lswab.github.io/xiaohe.github.io/"/>
-    <link rel="self" href="https://x-lswab.github.io/xiaohe.github.io//atom.xml"/>
+    <link rel="self" href="https://x-lswab.github.io/xiaohe.github.io/atom.xml"/>
     <subtitle>不成功均源于无知和错误的知识，只要掌握基本的智慧，任何人都能成功。所以没有不好的孩子，只有不好的老师；没有失败的企业，只有失败的管理；没有落后的国家，只有落后的思想
 很多知识不是教我们如何成功，而是教我们如何失败。因此，学习是一件极其危险的事！</subtitle>
-    <logo>https://x-lswab.github.io/xiaohe.github.io//images/avatar.png</logo>
-    <icon>https://x-lswab.github.io/xiaohe.github.io//favicon.ico</icon>
+    <logo>https://x-lswab.github.io/xiaohe.github.io/images/avatar.png</logo>
+    <icon>https://x-lswab.github.io/xiaohe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 一介凡人</rights>
 </feed>
